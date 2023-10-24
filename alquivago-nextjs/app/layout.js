@@ -5,7 +5,7 @@ import Header from './components/Header'
 
 export const metadata = {
   title: 'Alquivago',
-  description: 'Alquila con nosotros',
+  description: 'Alquilá con nosotros',
 }
 const pages = [
   {label: 'Secundaria',
