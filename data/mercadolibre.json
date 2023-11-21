@@ -1,606 +1,294 @@
 [
     {
-        "id": "MLU_660071754",
-        "title": "Alquiler De Apartamento De Un Dormitorio Cordon",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660071754-alquiler-de-apartamento-de-un-dormitorio-cordon-_JM",
+        "id": "MLU_634427653",
+        "title": "Apartamento En Alquiler De 2 Dormitorios En Pocitos (ref: Vld-3916)",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634427653-apartamento-en-alquiler-de-2-dormitorios-en-pocitos-ref-vld-3916-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler",
-        "price": 15300.0,
+        "price": 28000.0,
         "currency": "UYU",
         "state_name": "Montevideo",
-        "zone_name": "Centro",
+        "zone_name": "Pocitos",
         "property_type": "Apartamento",
-        "total_area": 45,
-        "bathrooms": 1,
-        "bedrooms": 1,
-        "location": {
-            "latitude": -34.9007063,
-            "longitude": -56.1829068
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_989379-MLU72251164639_102023-O.jpg",
-            "https://http2.mlstatic.com/D_889299-MLU72189204366_102023-O.jpg",
-            "https://http2.mlstatic.com/D_682151-MLU72189391078_102023-O.jpg",
-            "https://http2.mlstatic.com/D_644319-MLU72251409719_102023-O.jpg",
-            "https://http2.mlstatic.com/D_610247-MLU72251164643_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634302781",
-        "title": "Alquilo Piriapolis Lindos Aptos De 1 Y 2 Dormitorios Sobre La Arena Rodeado De Palmeras Piscina Cerrada 38 Grados Sala De Juegos Pisicna Cerrada 38 Grados Sala De Juegos Un Lugar Unico En Piriapolis",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634302781-alquilo-piriapolis-lindos-aptos-de-1-y-2-dormitorios-sobre-la-arena-rodeado-de-palmeras-piscina-cerrada-38-grados-sala-de-juegos-pisicna-cerrada-38-grados-sala-de-juegos-un-lugar-unico-en-piriapolis-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 2919.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 4323,
-        "bathrooms": 1,
+        "total_area": 77,
+        "bathrooms": 2,
         "bedrooms": 2,
         "location": {
-            "latitude": -34.8599941,
-            "longitude": -55.2847116
+            "latitude": -34.9084582,
+            "longitude": -56.1556997
         },
         "images": [
-            "https://http2.mlstatic.com/D_899950-MLU50518216257_062022-O.jpg",
-            "https://http2.mlstatic.com/D_728731-MLU50518210305_062022-O.jpg",
-            "https://http2.mlstatic.com/D_826911-MLU69428131873_052023-O.jpg",
-            "https://http2.mlstatic.com/D_965533-MLU50518191371_062022-O.jpg",
-            "https://http2.mlstatic.com/D_881713-MLU50518216262_062022-O.jpg"
+            "https://http2.mlstatic.com/D_997033-MLU72441952300_102023-O.jpg",
+            "https://http2.mlstatic.com/D_856699-MLU72441952306_102023-O.jpg",
+            "https://http2.mlstatic.com/D_810646-MLU72441952314_102023-O.jpg",
+            "https://http2.mlstatic.com/D_929009-MLU72441952324_102023-O.jpg",
+            "https://http2.mlstatic.com/D_773530-MLU72441952316_102023-O.jpg"
         ]
     },
     {
-        "id": "MLU_660132838",
-        "title": "Alquilo Apartamento Con Piscina Y Parrillero Propio Para 4 Personas A Pasos Del Puerto De Puerto De Punta Del Este C790a",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660132838-alquilo-apartamento-con-piscina-y-parrillero-propio-para-4-personas-a-pasos-del-puerto-de-puerto-de-punta-del-este-c790a-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 750.0,
-        "currency": "USD",
-        "state_name": "Maldonado",
-        "zone_name": "Punta del Este",
-        "property_type": "Apartamento",
-        "total_area": 70,
-        "bathrooms": 1,
-        "bedrooms": 1,
-        "location": {
-            "latitude": -34.9651394,
-            "longitude": -54.9458264
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_850651-MLU72187339314_102023-O.jpg",
-            "https://http2.mlstatic.com/D_774315-MLU72187339312_102023-O.jpg",
-            "https://http2.mlstatic.com/D_812644-MLU72187095646_102023-O.jpg",
-            "https://http2.mlstatic.com/D_976302-MLU72187095628_102023-O.jpg",
-            "https://http2.mlstatic.com/D_812472-MLU72187095602_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660415270",
-        "title": "Alquiler Casa 2 Dormitorios El Pinar Ciudad De La Costa",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-660415270-alquiler-casa-2-dormitorios-el-pinar-ciudad-de-la-costa-_JM",
+        "id": "MLU_662204280",
+        "title": "Alquiler Apartamento De 1 Dormitorio En Cordón.",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662204280-alquiler-apartamento-de-1-dormitorio-en-cordon-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler",
         "price": 15000.0,
         "currency": "UYU",
-        "state_name": "Canelones",
-        "zone_name": "El Pinar",
-        "property_type": "Casa",
-        "total_area": 90,
+        "state_name": "Montevideo",
+        "zone_name": "Cordón",
+        "property_type": "Apartamento",
+        "total_area": 26,
         "bathrooms": 1,
-        "bedrooms": 2,
+        "bedrooms": 1,
         "location": {
-            "latitude": -34.7935694,
-            "longitude": -55.9380715
+            "latitude": -34.8990954,
+            "longitude": -56.1682071
         },
         "images": [
-            "https://http2.mlstatic.com/D_899250-MLU72241640422_102023-O.jpg",
-            "https://http2.mlstatic.com/D_804182-MLU72304721931_102023-O.jpg",
-            "https://http2.mlstatic.com/D_700253-MLU72241640792_102023-O.jpg",
-            "https://http2.mlstatic.com/D_929813-MLU72304711937_102023-O.jpg",
-            "https://http2.mlstatic.com/D_654470-MLU72241621250_102023-O.jpg"
+            "https://http2.mlstatic.com/D_809075-MLU72478768326_102023-O.jpg",
+            "https://http2.mlstatic.com/D_863849-MLU72478768308_102023-O.jpg",
+            "https://http2.mlstatic.com/D_705425-MLU72478768320_102023-O.jpg",
+            "https://http2.mlstatic.com/D_818169-MLU72478768312_102023-O.jpg",
+            "https://http2.mlstatic.com/D_872235-MLU72478768322_102023-O.jpg"
         ]
     },
     {
-        "id": "MLU_660446222",
-        "title": "Alquiler Apartamento En Parque Rodo 2 Dormitorios Y Patio",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660446222-alquiler-apartamento-en-parque-rodo-2-dormitorios-y-patio-_JM",
+        "id": "MLU_662189496",
+        "title": "Alquilo Monoambiente A Estrenar!!! Cordón Design",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662189496-alquilo-monoambiente-a-estrenar-cordon-design-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler",
-        "price": 21000.0,
+        "price": 22000.0,
         "currency": "UYU",
         "state_name": "Montevideo",
-        "zone_name": "Parque Rodó",
+        "zone_name": "Cordón",
+        "property_type": "Apartamento",
+        "total_area": 43,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "location": {
+            "latitude": -34.9074131,
+            "longitude": -56.1731812
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_615897-MLU72537721813_102023-O.jpg",
+            "https://http2.mlstatic.com/D_677936-MLU72538106959_102023-O.jpg",
+            "https://http2.mlstatic.com/D_802019-MLU72537721809_102023-O.jpg",
+            "https://http2.mlstatic.com/D_874564-MLU72538166317_102023-O.jpg",
+            "https://http2.mlstatic.com/D_969840-MLU72538107107_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_662226402",
+        "title": "Alquiler Apartamento 2 Dormitorios Cordón Montevideo",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662226402-alquiler-apartamento-2-dormitorios-cordon-montevideo-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 22000.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Cordón",
+        "property_type": "Apartamento",
+        "total_area": 57,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "location": {
+            "latitude": -34.900019,
+            "longitude": -56.1701449
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_813780-MLU72468069326_102023-O.jpg",
+            "https://http2.mlstatic.com/D_683176-MLU72536969517_102023-O.jpg",
+            "https://http2.mlstatic.com/D_722493-MLU72468287488_102023-O.jpg",
+            "https://http2.mlstatic.com/D_846519-MLU72468267546_102023-O.jpg",
+            "https://http2.mlstatic.com/D_905284-MLU72468088980_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_634440967",
+        "title": "Alquiler A Estrenar Apartamento Un Dormitorio    Escritorio (o Segundo Dormitorio), Dos Baños, Garage.  Pocitos Nuevo",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634440967-alquiler-a-estrenar-apartamento-un-dormitorio-escritorio-o-segundo-dormitorio-dos-banos-garage-pocitos-nuevo-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 38000.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Pocitos Nuevo",
+        "property_type": "Apartamento",
+        "total_area": 66,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "location": {
+            "latitude": -34.9042986,
+            "longitude": -56.1389114
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_837385-MLU72511275025_102023-O.jpg",
+            "https://http2.mlstatic.com/D_664783-MLU72511275049_102023-O.jpg",
+            "https://http2.mlstatic.com/D_849788-MLU72511275041_102023-O.jpg",
+            "https://http2.mlstatic.com/D_870478-MLU72511275033_102023-O.jpg",
+            "https://http2.mlstatic.com/D_754414-MLU72511275051_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_634455745",
+        "title": "Alquilo: Casa 1 Dormitorio Con Cochera",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-634455745-alquilo-casa-1-dormitorio-con-cochera-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 15000.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Lezica",
+        "property_type": "Casa",
+        "total_area": 200,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "location": {
+            "latitude": -34.8021548,
+            "longitude": -56.2492744
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_997269-MLU72513243397_102023-O.jpg",
+            "https://http2.mlstatic.com/D_731001-MLU72513243385_102023-O.jpg",
+            "https://http2.mlstatic.com/D_662376-MLU72513243391_102023-O.jpg",
+            "https://http2.mlstatic.com/D_637181-MLU72513243383_102023-O.jpg",
+            "https://http2.mlstatic.com/D_636929-MLU72513243411_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_662163536",
+        "title": "Apartamento Alquiler",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662163536-apartamento-alquiler-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 25000.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Aguada",
         "property_type": "Apartamento",
         "total_area": 65,
         "bathrooms": 1,
         "bedrooms": 2,
         "location": {
-            "latitude": -34.9097205,
-            "longitude": -56.166318
+            "latitude": -34.8943377,
+            "longitude": -56.1889849
         },
         "images": [
-            "https://http2.mlstatic.com/D_656430-MLU72328773471_102023-O.jpg",
-            "https://http2.mlstatic.com/D_774041-MLU72329129733_102023-O.jpg",
-            "https://http2.mlstatic.com/D_798837-MLU72329109731_102023-O.jpg",
-            "https://http2.mlstatic.com/D_958539-MLU72328783123_102023-O.jpg",
-            "https://http2.mlstatic.com/D_748751-MLU72329464789_102023-O.jpg"
+            "https://http2.mlstatic.com/D_730110-MLU72539155015_102023-O.jpg",
+            "https://http2.mlstatic.com/D_721861-MLU72538801565_102023-O.jpg",
+            "https://http2.mlstatic.com/D_751340-MLU72538801563_102023-O.jpg",
+            "https://http2.mlstatic.com/D_708072-MLU72538870547_102023-O.jpg",
+            "https://http2.mlstatic.com/D_997309-MLU72539155017_102023-O.jpg"
         ]
     },
     {
-        "id": "MLU_634380531",
-        "title": "Alquiler De Casas Y Apartamentos En El Barrio Los Angeles Frente Al Mar O A 2 Cuadras De La Playa",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634380531-alquiler-de-casas-y-apartamentos-en-el-barrio-los-angeles-frente-al-mar-o-a-2-cuadras-de-la-playa-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 2000.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 500,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8598268,
-            "longitude": -55.2844541
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_698060-MLU72209883768_102023-O.jpg",
-            "https://http2.mlstatic.com/D_818188-MLU72164311628_102023-O.jpg",
-            "https://http2.mlstatic.com/D_911392-MLU72164272150_102023-O.jpg",
-            "https://http2.mlstatic.com/D_607006-MLU72164222692_102023-O.jpg",
-            "https://http2.mlstatic.com/D_855074-MLU72164301844_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634312911",
-        "title": "Primavera 2023 Y 2024 Alquiler De Casas Y Apartamentos Frente Al Mar En Piriapolis Propietario Alquila 4500 El Fin De Semana",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634312911-primavera-2023-y-2024-alquiler-de-casas-y-apartamentos-frente-al-mar-en-piriapolis-propietario-alquila-4500-el-fin-de-semana-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 1980.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 500,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8569646,
-            "longitude": -55.2879303
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_811320-MLU72025823083_092023-O.jpg",
-            "https://http2.mlstatic.com/D_674589-MLU71969381562_092023-O.jpg",
-            "https://http2.mlstatic.com/D_744630-MLU71969525166_092023-O.jpg",
-            "https://http2.mlstatic.com/D_853821-MLU72025870829_092023-O.jpg",
-            "https://http2.mlstatic.com/D_734526-MLU72025870827_092023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634328673",
-        "title": "Alquilo Piriapolis Linda Casa Nuevita Frente A La Mejor Playa 3 Dormitorios 2 Banos Barbacoa Fondo,totalmente Equipada Para 7 Personas",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634328673-alquilo-piriapolis-linda-casa-nuevita-frente-a-la-mejor-playa-3-dormitorios-2-banos-barbacoa-fondototalmente-equipada-para-7-personas-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 4699.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 900,
-        "bathrooms": 2,
-        "bedrooms": 3,
-        "location": {
-            "latitude": -34.8547119,
-            "longitude": -55.2952601
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_723591-MLU51070783512_082022-O.jpg",
-            "https://http2.mlstatic.com/D_717890-MLU51070777517_082022-O.jpg",
-            "https://http2.mlstatic.com/D_704548-MLU51070830452_082022-O.jpg",
-            "https://http2.mlstatic.com/D_624804-MLU51070844412_082022-O.jpg",
-            "https://http2.mlstatic.com/D_836277-MLU51070842415_082022-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634277107",
-        "title": "Verano 2024 Dueño Alquila Casas Y Apartamentos En Piriapolis A 3 Cuadras De La Playa Y Frente Al Mar",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634277107-verano-2024-dueno-alquila-casas-y-apartamentos-en-piriapolis-a-3-cuadras-de-la-playa-y-frente-al-mar-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 2000.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 500,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8577158,
-            "longitude": -55.2831661
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_643163-MLU72164260690_102023-O.jpg",
-            "https://http2.mlstatic.com/D_877493-MLU72026044293_092023-O.jpg",
-            "https://http2.mlstatic.com/D_739879-MLU72026265593_092023-O.jpg",
-            "https://http2.mlstatic.com/D_750494-MLU72164300366_102023-O.jpg",
-            "https://http2.mlstatic.com/D_613014-MLU72164240834_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634350989",
-        "title": "En Alquiler De Verano 2024 - Ideal Para Familia - Con Amenities , Amplio! 3 Dormitorios!",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634350989-en-alquiler-de-verano-2024-ideal-para-familia-con-amenities-amplio-3-dormitorios-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 3000.0,
-        "currency": "USD",
-        "state_name": "Maldonado",
-        "zone_name": "Punta del Este",
-        "property_type": "Apartamento",
-        "total_area": 120,
-        "bathrooms": 2,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.9265821,
-            "longitude": -54.9609511
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_681598-MLU72266831073_102023-O.jpg",
-            "https://http2.mlstatic.com/D_863870-MLU72266831071_102023-O.jpg",
-            "https://http2.mlstatic.com/D_721114-MLU72266831031_102023-O.jpg",
-            "https://http2.mlstatic.com/D_850847-MLU72266831047_102023-O.jpg",
-            "https://http2.mlstatic.com/D_717614-MLU72266831053_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634387385",
-        "title": "Alquiler Apartamento Monoambiente Palermo High P 201 $16.500",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634387385-alquiler-apartamento-monoambiente-palermo-high-p-201-16500-_JM",
+        "id": "MLU_634404319",
+        "title": "Alquiler Casa 2 Dormitorios Gran Terreno",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-634404319-alquiler-casa-2-dormitorios-gran-terreno-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler",
-        "price": 16500.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "Cordón",
-        "property_type": "Apartamento",
-        "total_area": 30,
-        "bathrooms": 1,
-        "bedrooms": 0,
-        "location": {
-            "latitude": -34.9087673,
-            "longitude": -56.1815295
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_608882-MLU72288196899_102023-O.jpg",
-            "https://http2.mlstatic.com/D_751899-MLU72288196913_102023-O.jpg",
-            "https://http2.mlstatic.com/D_997507-MLU72288196915_102023-O.jpg",
-            "https://http2.mlstatic.com/D_927673-MLU72288196903_102023-O.jpg",
-            "https://http2.mlstatic.com/D_938005-MLU72288196905_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634315761",
-        "title": "Alquilo Piriapolis Lindos Aptos Tipo Casita En Pleno Centro Cerca De Todo  5 De La Playa 2 Dormitorios Parrillerito Lugar Para El Auto Totalmente Equipados Para 5 Personas",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634315761-alquilo-piriapolis-lindos-aptos-tipo-casita-en-pleno-centro-cerca-de-todo-5-de-la-playa-2-dormitorios-parrillerito-lugar-para-el-auto-totalmente-equipados-para-5-personas-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 1997.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 876,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8646352,
-            "longitude": -55.2713629
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_13596-MLU3146756895_092012-O.jpg",
-            "https://http2.mlstatic.com/D_13587-MLU3146759161_092012-O.jpg",
-            "https://http2.mlstatic.com/D_13563-MLU3146757647_092012-O.jpg",
-            "https://http2.mlstatic.com/D_13585-MLU3146758523_092012-O.jpg",
-            "https://http2.mlstatic.com/D_13507-MLU3146762894_092012-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660472494",
-        "title": "Alquiler Monoambiente Montevideo Punta Carretas",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660472494-alquiler-monoambiente-montevideo-punta-carretas-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 17000.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "Punta Carretas",
-        "property_type": "Apartamento",
-        "total_area": 40,
-        "bathrooms": 1,
-        "bedrooms": 1,
-        "location": {
-            "latitude": -34.9168131,
-            "longitude": -56.1632449
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_832766-MLU72331129657_102023-O.jpg",
-            "https://http2.mlstatic.com/D_688406-MLU72266813620_102023-O.jpg",
-            "https://http2.mlstatic.com/D_711785-MLU72331305175_102023-O.jpg",
-            "https://http2.mlstatic.com/D_832756-MLU72331265309_102023-O.jpg",
-            "https://http2.mlstatic.com/D_868810-MLU72331129781_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660713686",
-        "title": "Alquiler De Lindo Y Luminoso Apartamento, La Blanqueada, 1 Dormitorio, Terraza Lavadero, Excelente Ubicación, Vistas Despejadas, Muy Seguro",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660713686-alquiler-de-lindo-y-luminoso-apartamento-la-blanqueada-1-dormitorio-terraza-lavadero-excelente-ubicacion-vistas-despejadas-muy-seguro-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 19000.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "La Blanqueada",
-        "property_type": "Apartamento",
-        "total_area": 43,
-        "bathrooms": 1,
-        "bedrooms": 1,
-        "location": {
-            "latitude": -34.8798518,
-            "longitude": -56.1494192
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_898213-MLA72275326562_102023-O.jpg",
-            "https://http2.mlstatic.com/D_685385-MLA72275946140_102023-O.jpg",
-            "https://http2.mlstatic.com/D_825448-MLA72276343412_102023-O.jpg",
-            "https://http2.mlstatic.com/D_717924-MLA72340407365_102023-O.jpg",
-            "https://http2.mlstatic.com/D_674665-MLA72339934141_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634380587",
-        "title": "Alquilo Piriapolis Linda Casa En Zona Residencial De Piriapolis Muy Cerca Del Mar 2 Dormitoriso Amplios Parrillero Lugar Para El Auto Totalmente Equipada Para 7 Personas",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634380587-alquilo-piriapolis-linda-casa-en-zona-residencial-de-piriapolis-muy-cerca-del-mar-2-dormitoriso-amplios-parrillero-lugar-para-el-auto-totalmente-equipada-para-7-personas-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 2581.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 909,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8565124,
-            "longitude": -55.2800162
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_616022-MLU50539015570_072022-O.jpg",
-            "https://http2.mlstatic.com/D_840745-MLU50538970713_072022-O.jpg",
-            "https://http2.mlstatic.com/D_883126-MLU50538711918_072022-O.jpg",
-            "https://http2.mlstatic.com/D_683181-MLU50538983661_072022-O.jpg",
-            "https://http2.mlstatic.com/D_752483-MLU50539009581_072022-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634325883",
-        "title": "Piriapolis Alquilo Casas Frente Al Mar O A 2 Cuadras De La Playa Verano 2024",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-634325883-piriapolis-alquilo-casas-frente-al-mar-o-a-2-cuadras-de-la-playa-verano-2024-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler temporada",
-        "price": 1995.0,
-        "currency": "UYU",
-        "state_name": "Maldonado",
-        "zone_name": "Piriápolis",
-        "property_type": "Casa",
-        "total_area": 500,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8598967,
-            "longitude": -55.2843994
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_963471-MLU72268936087_102023-O.jpg",
-            "https://http2.mlstatic.com/D_798005-MLU72268936089_102023-O.jpg",
-            "https://http2.mlstatic.com/D_948469-MLU72268861393_102023-O.jpg",
-            "https://http2.mlstatic.com/D_790683-MLU72268890345_102023-O.jpg",
-            "https://http2.mlstatic.com/D_887954-MLU72268936095_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660111182",
-        "title": "Alquiler Invernal Año 2024 - Punta Del Este - 2 Dormitorios - Piscina Climatizada Y Mucama",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660111182-alquiler-invernal-ano-2024-punta-del-este-2-dormitorios-piscina-climatizada-y-mucama-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 900.0,
-        "currency": "USD",
-        "state_name": "Maldonado",
-        "zone_name": "Punta del Este",
-        "property_type": "Apartamento",
-        "total_area": 115,
-        "bathrooms": 2,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.9270849,
-            "longitude": -54.9612633
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_611466-MLU72191109114_102023-O.jpg",
-            "https://http2.mlstatic.com/D_763621-MLU72191109168_102023-O.jpg",
-            "https://http2.mlstatic.com/D_929660-MLU72191109160_102023-O.jpg",
-            "https://http2.mlstatic.com/D_810258-MLU72191109110_102023-O.jpg",
-            "https://http2.mlstatic.com/D_632377-MLU72191109128_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660111180",
-        "title": "Alquiler Frente Al Mar - Playa Mansa - 2 Dormitorios Y Medio - Vista A Isla Gorriti - Complejo Lincoln Center",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660111180-alquiler-frente-al-mar-playa-mansa-2-dormitorios-y-medio-vista-a-isla-gorriti-complejo-lincoln-center-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 900.0,
-        "currency": "USD",
-        "state_name": "Maldonado",
-        "zone_name": "Punta del Este",
-        "property_type": "Apartamento",
-        "total_area": 115,
-        "bathrooms": 2,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.9270849,
-            "longitude": -54.9612633
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_612509-MLU72253187187_102023-O.jpg",
-            "https://http2.mlstatic.com/D_662295-MLU72253187169_102023-O.jpg",
-            "https://http2.mlstatic.com/D_854989-MLU72253187159_102023-O.jpg",
-            "https://http2.mlstatic.com/D_833307-MLU72253187215_102023-O.jpg",
-            "https://http2.mlstatic.com/D_869567-MLU72253187171_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660661812",
-        "title": "Alquiler Casa 2 Dormitorios Jardin Patio Cochera A 2 De Avenida Italia Lado Norte",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-660661812-alquiler-casa-2-dormitorios-jardin-patio-cochera-a-2-de-avenida-italia-lado-norte-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 30000.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "Buceo",
-        "property_type": "Casa",
-        "total_area": 167,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.8836618,
-            "longitude": -56.126483
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_960116-MLU72275564018_102023-O.jpg",
-            "https://http2.mlstatic.com/D_939415-MLU72339996881_102023-O.jpg",
-            "https://http2.mlstatic.com/D_950035-MLU72340124737_102023-O.jpg",
-            "https://http2.mlstatic.com/D_762785-MLU72340056253_102023-O.jpg",
-            "https://http2.mlstatic.com/D_739297-MLU72275689930_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634280905",
-        "title": "Apartamento En Alquiler De 2 Dormitorios En Centro",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634280905-apartamento-en-alquiler-de-2-dormitorios-en-centro-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 29000.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "Centro",
-        "property_type": "Apartamento",
-        "total_area": 70,
-        "bathrooms": 1,
-        "bedrooms": 2,
-        "location": {
-            "latitude": -34.904461,
-            "longitude": -56.1883104
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_954040-MLU72218853862_102023-O.jpg",
-            "https://http2.mlstatic.com/D_879947-MLU72219056520_102023-O.jpg",
-            "https://http2.mlstatic.com/D_691476-MLU72218853888_102023-O.jpg",
-            "https://http2.mlstatic.com/D_741986-MLU72219056540_102023-O.jpg",
-            "https://http2.mlstatic.com/D_955294-MLU72281614843_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_634388239",
-        "title": "Alquiler Apartamento Prado 1 Dormitorio Con Garage",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-634388239-alquiler-apartamento-prado-1-dormitorio-con-garage-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 22900.0,
+        "price": 22500.0,
         "currency": "UYU",
         "state_name": "Montevideo",
         "zone_name": "Prado",
-        "property_type": "Apartamento",
-        "total_area": 40,
-        "bathrooms": 1,
-        "bedrooms": 1,
-        "location": {
-            "latitude": -34.8635641,
-            "longitude": -56.2107998
-        },
-        "images": [
-            "https://http2.mlstatic.com/D_912985-MLU72290539793_102023-O.jpg",
-            "https://http2.mlstatic.com/D_820245-MLU72290539791_102023-O.jpg",
-            "https://http2.mlstatic.com/D_886182-MLU72290539789_102023-O.jpg",
-            "https://http2.mlstatic.com/D_626717-MLU72290539785_102023-O.jpg",
-            "https://http2.mlstatic.com/D_838367-MLU72290539803_102023-O.jpg"
-        ]
-    },
-    {
-        "id": "MLU_660447326",
-        "title": "Casa En Alquiler De 2 Dormitorios En Brazo Oriental (ref: Vld-3899)",
-        "url_link": "https://casa.mercadolibre.com.uy/MLU-660447326-casa-en-alquiler-de-2-dormitorios-en-brazo-oriental-ref-vld-3899-_JM",
-        "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 20000.0,
-        "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "Brazo Oriental",
         "property_type": "Casa",
-        "total_area": 55,
+        "total_area": 200,
         "bathrooms": 1,
         "bedrooms": 2,
         "location": {
-            "latitude": -34.8628237,
-            "longitude": -56.1850532
+            "latitude": -34.84656,
+            "longitude": -56.2149801
         },
         "images": [
-            "https://http2.mlstatic.com/D_894606-MLU72270615854_102023-O.jpg",
-            "https://http2.mlstatic.com/D_745685-MLU72270615832_102023-O.jpg",
-            "https://http2.mlstatic.com/D_908508-MLU72270615840_102023-O.jpg",
-            "https://http2.mlstatic.com/D_985363-MLU72270615848_102023-O.jpg",
-            "https://http2.mlstatic.com/D_801373-MLU72270615852_102023-O.jpg"
+            "https://http2.mlstatic.com/D_692871-MLU72444885578_102023-O.jpg",
+            "https://http2.mlstatic.com/D_906353-MLU72444885580_102023-O.jpg",
+            "https://http2.mlstatic.com/D_769849-MLU72512970063_102023-O.jpg",
+            "https://http2.mlstatic.com/D_739491-MLU72444609002_102023-O.jpg",
+            "https://http2.mlstatic.com/D_765406-MLU72444796450_102023-O.jpg"
         ]
     },
     {
-        "id": "MLU_660062428",
-        "title": "Coral Tower - Alquiler De Verano - Frente Al Mar - 3 Dormitorios En Suite + Dependencia",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660062428-coral-tower-alquiler-de-verano-frente-al-mar-3-dormitorios-en-suite-dependencia-_JM",
+        "id": "MLU_634469083",
+        "title": "Casa A 1 Cuadra De La Playa Para 7 Personas Con Piscina",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-634469083-casa-a-1-cuadra-de-la-playa-para-7-personas-con-piscina-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler temporada",
+        "price": 2490.0,
+        "currency": "UYU",
+        "state_name": "Maldonado",
+        "zone_name": "Piriápolis",
+        "property_type": "Casa",
+        "total_area": 100,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "location": {
+            "latitude": -34.8617197,
+            "longitude": -55.2819603
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_947216-MLU69894537035_062023-O.jpg",
+            "https://http2.mlstatic.com/D_602588-MLU69876847462_062023-O.jpg",
+            "https://http2.mlstatic.com/D_604608-MLU69894537079_062023-O.jpg",
+            "https://http2.mlstatic.com/D_743904-MLU69894555963_062023-O.jpg",
+            "https://http2.mlstatic.com/D_925876-MLU69876856442_062023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_662202138",
+        "title": "Alquilo Piriapolis Linda Casa Nuevita En Pleno Centro A 4 De La Playa 2 Dormitorios Amplios Garage Cerrado Parrillero Lindo Jardin Totalmente Equipada Para 6 Personas",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-662202138-alquilo-piriapolis-linda-casa-nuevita-en-pleno-centro-a-4-de-la-playa-2-dormitorios-amplios-garage-cerrado-parrillero-lindo-jardin-totalmente-equipada-para-6-personas-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler temporada",
+        "price": 3689.0,
+        "currency": "UYU",
+        "state_name": "Maldonado",
+        "zone_name": "Piriápolis",
+        "property_type": "Casa",
+        "total_area": 678,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "location": {
+            "latitude": -34.865131,
+            "longitude": -55.2714613
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_898311-MLU48857917400_012022-O.jpg",
+            "https://http2.mlstatic.com/D_741224-MLU54452711952_032023-O.jpg",
+            "https://http2.mlstatic.com/D_944644-MLU48857940108_012022-O.jpg",
+            "https://http2.mlstatic.com/D_885983-MLU48857717913_012022-O.jpg",
+            "https://http2.mlstatic.com/D_780136-MLU48857917395_012022-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_634416821",
+        "title": "Alquiler Casa 3 Dormitorios El Pinar Con Cochera",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-634416821-alquiler-casa-3-dormitorios-el-pinar-con-cochera-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler",
-        "price": 5500.0,
-        "currency": "USD",
-        "state_name": "Maldonado",
-        "zone_name": "Punta del Este",
-        "property_type": "Apartamento",
-        "total_area": 151,
-        "bathrooms": 4,
+        "price": 65000.0,
+        "currency": "UYU",
+        "state_name": "Canelones",
+        "zone_name": "El Pinar",
+        "property_type": "Casa",
+        "total_area": 1100,
+        "bathrooms": 2,
         "bedrooms": 3,
         "location": {
-            "latitude": -34.9476716,
-            "longitude": -54.9409908
+            "latitude": -34.804165,
+            "longitude": -55.9098991
         },
         "images": [
-            "https://http2.mlstatic.com/D_907697-MLU72265680401_102023-O.jpg",
-            "https://http2.mlstatic.com/D_815990-MLU72265680363_102023-O.jpg",
-            "https://http2.mlstatic.com/D_716138-MLU72265680375_102023-O.jpg",
-            "https://http2.mlstatic.com/D_910887-MLU72265680409_102023-O.jpg",
-            "https://http2.mlstatic.com/D_618619-MLU72265680369_102023-O.jpg"
+            "https://http2.mlstatic.com/D_745060-MLU71871260772_092023-O.jpg",
+            "https://http2.mlstatic.com/D_841202-MLU71925749869_092023-O.jpg",
+            "https://http2.mlstatic.com/D_848727-MLU71925877305_092023-O.jpg",
+            "https://http2.mlstatic.com/D_696390-MLU71925759753_092023-O.jpg",
+            "https://http2.mlstatic.com/D_922201-MLU71925749905_092023-O.jpg"
         ]
     },
     {
-        "id": "MLU_660132456",
-        "title": "Apartamento En Alquiler Torrelobos, Punta Del Este, Playa Brava.",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660132456-apartamento-en-alquiler-torrelobos-punta-del-este-playa-brava-_JM",
+        "id": "MLU_662222610",
+        "title": "Casino Tower En Alquiler",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662222610-casino-tower-en-alquiler-_JM",
         "origin": "mercado_libre",
         "operation_type": "Alquiler temporada",
         "price": 4000.0,
@@ -608,45 +296,123 @@
         "state_name": "Maldonado",
         "zone_name": "Punta del Este",
         "property_type": "Apartamento",
-        "total_area": 270,
-        "bathrooms": 4,
-        "bedrooms": 3,
+        "total_area": 110,
+        "bathrooms": 2,
+        "bedrooms": 2,
         "location": {
-            "latitude": -34.9345765,
-            "longitude": -54.9029916
+            "latitude": -34.918002,
+            "longitude": -54.9765911
         },
         "images": [
-            "https://http2.mlstatic.com/D_605619-MLU72184805014_102023-O.jpg",
-            "https://http2.mlstatic.com/D_878638-MLU72184805038_102023-O.jpg",
-            "https://http2.mlstatic.com/D_781682-MLU72184805016_102023-O.jpg",
-            "https://http2.mlstatic.com/D_661491-MLU72184805010_102023-O.jpg",
-            "https://http2.mlstatic.com/D_689309-MLU72184805030_102023-O.jpg"
+            "https://http2.mlstatic.com/D_663501-MLU72461498434_102023-O.jpg",
+            "https://http2.mlstatic.com/D_756586-MLU72461498448_102023-O.jpg",
+            "https://http2.mlstatic.com/D_752239-MLU72461498412_102023-O.jpg",
+            "https://http2.mlstatic.com/D_704293-MLU72461498440_102023-O.jpg",
+            "https://http2.mlstatic.com/D_741269-MLU72461498458_102023-O.jpg"
         ]
     },
     {
-        "id": "MLU_660181266",
-        "title": "Alquiler Apartamento Dos Dormitorios La Blanqueada Sin Gastos Comunes!!.",
-        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-660181266-alquiler-apartamento-dos-dormitorios-la-blanqueada-sin-gastos-comunes-_JM",
+        "id": "MLU_662247722",
+        "title": "Alquilo Piriapolis Lindos Apartamentos De 1 Y 2 Dormitorios Sobre La Arena Rodeado De Palmeras Piscina Cerrada 38 Grados Sala De Juegos Un Lugar Unico En Piriapolis",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-662247722-alquilo-piriapolis-lindos-apartamentos-de-1-y-2-dormitorios-sobre-la-arena-rodeado-de-palmeras-piscina-cerrada-38-grados-sala-de-juegos-un-lugar-unico-en-piriapolis-_JM",
         "origin": "mercado_libre",
-        "operation_type": "Alquiler",
-        "price": 17900.0,
+        "operation_type": "Alquiler temporada",
+        "price": 2877.0,
         "currency": "UYU",
-        "state_name": "Montevideo",
-        "zone_name": "La Blanqueada",
-        "property_type": "Apartamento",
-        "total_area": 40,
+        "state_name": "Maldonado",
+        "zone_name": "Piriápolis",
+        "property_type": "Casa",
+        "total_area": 4322,
         "bathrooms": 1,
         "bedrooms": 2,
         "location": {
-            "latitude": -34.8824535,
-            "longitude": -56.1560802
+            "latitude": -34.8599941,
+            "longitude": -55.2847116
         },
         "images": [
-            "https://http2.mlstatic.com/D_705681-MLU72260323103_102023-O.jpg",
-            "https://http2.mlstatic.com/D_816236-MLU72260323105_102023-O.jpg",
-            "https://http2.mlstatic.com/D_762962-MLU72260323117_102023-O.jpg",
-            "https://http2.mlstatic.com/D_617789-MLU72260323111_102023-O.jpg",
-            "https://http2.mlstatic.com/D_903410-MLU72260323119_102023-O.jpg"
+            "https://http2.mlstatic.com/D_851186-MLU70092147207_062023-O.jpg",
+            "https://http2.mlstatic.com/D_979204-MLU70071852730_062023-O.jpg",
+            "https://http2.mlstatic.com/D_665898-MLU70091924435_062023-O.jpg",
+            "https://http2.mlstatic.com/D_950509-MLU70092165491_062023-O.jpg",
+            "https://http2.mlstatic.com/D_960297-MLU70091924485_062023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_661857440",
+        "title": "Alquilo Apartamento En Villa Española 1 Dormitorio",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-661857440-alquilo-apartamento-en-villa-espanola-1-dormitorio-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 12500.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Villa Española",
+        "property_type": "Apartamento",
+        "total_area": 50,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "location": {
+            "latitude": -34.8650055,
+            "longitude": -56.1449308
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_811079-MLU72509799177_102023-O.jpg",
+            "https://http2.mlstatic.com/D_731484-MLU72509799191_102023-O.jpg",
+            "https://http2.mlstatic.com/D_662183-MLU72509799183_102023-O.jpg",
+            "https://http2.mlstatic.com/D_748356-MLU72509799181_102023-O.jpg",
+            "https://http2.mlstatic.com/D_639154-MLU72509799169_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_662162730",
+        "title": "Casa Alquiler Reducto Montevideo Imas A * (ref: Ims-21466)",
+        "url_link": "https://casa.mercadolibre.com.uy/MLU-662162730-casa-alquiler-reducto-montevideo-imas-a-ref-ims-21466-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 26900.0,
+        "currency": "UYU",
+        "state_name": "Montevideo",
+        "zone_name": "Reducto",
+        "property_type": "Casa",
+        "total_area": 110,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "location": {
+            "latitude": -34.876186,
+            "longitude": -56.1939186
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_993707-MLU72535393907_102023-O.jpg",
+            "https://http2.mlstatic.com/D_698235-MLU72535393909_102023-O.jpg",
+            "https://http2.mlstatic.com/D_737396-MLU72535393913_102023-O.jpg",
+            "https://http2.mlstatic.com/D_673778-MLU72535393917_102023-O.jpg",
+            "https://http2.mlstatic.com/D_856603-MLU72535393919_102023-O.jpg"
+        ]
+    },
+    {
+        "id": "MLU_662163008",
+        "title": "Apartamento En  Alquiler Por Quincena 1 Dormitorio - Ocean Drive Country",
+        "url_link": "https://apartamento.mercadolibre.com.uy/MLU-662163008-apartamento-en-alquiler-por-quincena-1-dormitorio-ocean-drive-country-_JM",
+        "origin": "mercado_libre",
+        "operation_type": "Alquiler",
+        "price": 1500.0,
+        "currency": "USD",
+        "state_name": "Maldonado",
+        "zone_name": "Punta del Este",
+        "property_type": "Apartamento",
+        "total_area": 44,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "location": {
+            "latitude": -34.9384732,
+            "longitude": -54.9352041
+        },
+        "images": [
+            "https://http2.mlstatic.com/D_977820-MLU72537073027_102023-O.jpg",
+            "https://http2.mlstatic.com/D_886287-MLU72537072999_102023-O.jpg",
+            "https://http2.mlstatic.com/D_678952-MLU72537072987_102023-O.jpg",
+            "https://http2.mlstatic.com/D_702062-MLU72537073011_102023-O.jpg",
+            "https://http2.mlstatic.com/D_992369-MLU72537073013_102023-O.jpg"
         ]
     }
 ]

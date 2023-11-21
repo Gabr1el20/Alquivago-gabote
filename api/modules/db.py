@@ -1,7 +1,5 @@
 from modules.f_filters import f_operation, f_area, f_bathrooms, f_bedrooms, f_currency, f_price, f_types, f_zones
-from modules.sort_delete import sort_apply, delete__id
-import re
-
+from modules.sort import sort_apply
 from flask import current_app, g
 from werkzeug.local import LocalProxy
 from pymongo import MongoClient
@@ -27,7 +25,7 @@ def build_query_sort_project(filters):
     """
     sort = filters["sort"]
     query = {}
-    project = None # elije que datos traer, de momento traeremos todos
+    project = {"_id": 0} # elije que datos traer, de momento traeremos todos
 
     #filtrado
     filters_list = []
@@ -97,32 +95,8 @@ def get_rents(type_operations, conv, filters, page, rents_per_page):
         rents = rents[skip:]
     else:
         rents = []
-    rents = delete__id(rents)
 
-    return (rents, total_num_rents, query)
-
-
-def get_rent(type_operations, id):
-    """
-    Given a rental property ID, return a property with that ID, with the comments for that
-    property embedded in the property document. The comments are joined from the
-    comments collection using expressive $lookup.
-    """
-    propertys = f_operation(type_operations)
-    if type(propertys) is not str:
-        return propertys
-    
-    try:
-        query = {"id": {"$in": id}}
-
-        rents = db[propertys].find(query)
-
-        return (list(rents))
-    except StopIteration:
-        return None
-
-    except Exception as e:
-        return {}
+    return (rents, total_num_rents)
 
 
 def get_all(type_operations, conv, sort, page, rents_per_page):
@@ -134,7 +108,7 @@ def get_all(type_operations, conv, sort, page, rents_per_page):
     if type(propertys) is not str:
         return propertys
     
-    cursor = db[propertys].find()
+    cursor = db[propertys].find({},{"_id": 0})
 
     rents = sort_apply(list(cursor), sort, conv)
 
@@ -148,13 +122,12 @@ def get_all(type_operations, conv, sort, page, rents_per_page):
         rents = rents[skip:]
     else:
         rents = []
-    rents = delete__id(rents)
     query = {}#eliminar
 
-    return (rents, total_num_rents, query)
+    return (rents, total_num_rents)
 
 
-def get_map_operation(type_operations):
+def get_map_operation(type_operations, zones):
     """List all propertys to show in the map"""
     propertys = f_operation(type_operations)
     if type(propertys) is not str:
@@ -162,6 +135,7 @@ def get_map_operation(type_operations):
     
     project = {
         "id": 1,
+        "url_link": 1,
         "zone_name": 1,
         "location.latitude": 1,
         "location.longitude": 1,
@@ -170,34 +144,43 @@ def get_map_operation(type_operations):
         "price": 1,
         "currency": 1,
         "_id": 0}
-    query = {} #eliminar
+    query = f_zones(zones)
     rents = list(db[propertys].find(query,project))
 
     total_num_rents = len(rents)
     
 
-    return (rents, total_num_rents, project)
+    return (rents, total_num_rents)
 
 
-def get_cont_zone(type_operations):
-    """cont all the properties in all zones"""
+def get_cont_zone_v2(type_operations):
+  """Count all the properties in all zones"""
 
-    propertys = f_operation(type_operations)
-    if type(propertys) is not str:
-        return propertys
-    
-    project = {
-        "zona": 1,
-        "_id": 0}
-    query = {}
-    all_zones = list(db.zonas_mvd_col.find(query,project))
+  propertys = f_operation(type_operations)
+  if type(propertys) is not str:
+    return propertys
 
-    cont = 0
-    for zone in all_zones:
-        escaped_zones = re.escape(zone["zona"])
-        zone["cantidad"] = db[propertys].count_documents({"zone_name": {"$regex": escaped_zones, "$options": "i"}})
-        cont += zone["cantidad"]
+  pipeline = [
+      {
+          "$match": {}  # You can add any filtering conditions here
+      },
+      {
+          "$group": {
+              "_id": "$zone_name",
+              "cantidad": {"$sum": 1}
+          }
+      },
+      {
+          "$project": {
+              "zona": "$_id",
+              "_id": 0,
+              "cantidad": 1
+          }
+      }
+  ]
 
-    total_num_rents = 0 #eliminar
+  result = list(db[propertys].aggregate(pipeline))
 
-    return (all_zones, total_num_rents, cont)
+  total_num_rents = sum(item["cantidad"] for item in result)
+
+  return (result, total_num_rents)

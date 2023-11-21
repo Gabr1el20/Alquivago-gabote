@@ -1,7 +1,10 @@
-import { Inter } from 'next/font/google'
 import './globals.css'
-import Link from 'next/link'
-import Header from './components/Header'
+import { Header} from './components/Header'
+import Link from 'next/navigation'
+import Image from 'next/image'
+import Navbar from './components/Nav'
+import OrderingSection from './components/SortingSection'
+import mapIcon from '../public/mapIcon.svg'
 
 export const metadata = {
   title: 'Alquivago',
@@ -18,9 +21,19 @@ const pages = [
 ]
 export default function RootLayout({ children }) {
   return (
-    <html lang="es">
-      <body className='md:bg-slate-300 bg-gradient-to-b from-white to-azul-600'>
+    <html lang="es" className='text-azul-500 bg-azul-50'>
+      <head>
+      <link
+        rel="icon"
+        href="/icon?<generated>"
+        type="image/<generated>"
+        sizes="<generated>"
+      />
+      </head>
+      <body className=" bg-azul-200">
+        <Navbar/>
         <Header/>
+        <OrderingSection/>
         {children}
       </body>
     </html>
